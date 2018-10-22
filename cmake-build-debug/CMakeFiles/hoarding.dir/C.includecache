@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jameslemkin/Desktop/homework/compsci/hoarding/main.c
+userDefinedTypes.h
+/Users/jameslemkin/Desktop/homework/compsci/hoarding/userDefinedTypes.h
+
+/Users/jameslemkin/Desktop/homework/compsci/hoarding/userDefinedTypes.c
+userDefinedTypes.h
+/Users/jameslemkin/Desktop/homework/compsci/hoarding/userDefinedTypes.h
+
+/Users/jameslemkin/Desktop/homework/compsci/hoarding/userDefinedTypes.h
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+string.h
+-
+ctype.h
+-
+

@@ -1,0 +1,14 @@
+Number of Spaces,10,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Type,Set Id,Intraset Id,Name,Property Cost,House Cost,Hotel Cost,Rent,Rent with House,Rent With Hotel
+Go,400,MU,,,,,,,
+Property,0,0,Kemper A,500,50,50,5,50,2000
+Property,0,1,Kemper B,1000,50,50,10,75,2500
+Property,1,0,Bainer A,2000,200,200,20,100,3000
+Property,1,1,Bainer B,2500,200,200,25,150,3000
+Property,1,2,Bainer C,3000,200,200,30,200,3500
+Property,2,0,SocialSci A,4000,400,400,40,300,4000
+Property,2,1,SocialSci B,4500,400,400,45,400,4000
+Property,2,2,SocialSci C,5000,400,400,50,500,4000
+Property,2,3,SocialSci D,5500,400,400,55,600,4500

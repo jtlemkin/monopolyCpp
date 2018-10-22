@@ -1,0 +1,12 @@
+Number of Spaces,8,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Type,Set Id,Intraset Id,Name,Property Cost,House Cost,Hotel Cost,Rent,Rent with House,Rent With Hotel
+Go,0,Ocean,,,,,,,
+Property,0,0,Asia,100,50,50,20,60,100
+Property,1,0,Europe,150,75,75,30,90,150
+Property,2,0,Africa,200,100,100,40,120,200
+Property,3,0,Australia,250,125,125,50,150,250
+Property,4,0,Antartica,300,150,150,60,180,300
+Property,5,0,North America,350,175,175,70,210,350
+Property,6,0,South America,400,200,200,80,240,400

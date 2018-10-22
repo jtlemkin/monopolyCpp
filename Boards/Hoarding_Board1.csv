@@ -1,0 +1,7 @@
+Number of Spaces,3,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Type,Set Id,Intraset Id,Name,Property Cost,House Cost,Hotel Cost,Rent,Rent with House,Rent With Hotel
+Go,200,Go,,,,,,,
+Property,0,0,Mediterranean Ave,60,50,50,2,10,250
+Property,0,1,Baltic Ave,60,50,50,4,20,450

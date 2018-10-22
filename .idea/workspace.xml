@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="hoarding" targetName="hoarding" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83601637-3d1a-4ad8-b376-4f649bfd1996" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="userDefinedTypes.c" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/userDefinedTypes.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="414" column="18" lean-forward="false" selection-start-line="414" selection-start-column="18" selection-end-line="414" selection-end-column="18" />
+              <folding>
+                <element signature="e#1820#1876#0" expanded="false" />
+                <element signature="e#1878#3072#0" expanded="false" />
+                <element signature="e#3078#3275#0" expanded="false" />
+                <element signature="e#3277#5047#0" expanded="false" />
+                <element signature="e#5049#5300#0" expanded="false" />
+                <element signature="e#5302#5847#0" expanded="false" />
+                <element signature="e#5853#6093#0" expanded="false" />
+                <element signature="e#6095#6507#0" expanded="false" />
+                <element signature="e#6509#7097#0" expanded="false" />
+                <element signature="e#7099#7539#0" expanded="false" />
+                <element signature="e#7541#8885#0" expanded="false" />
+                <element signature="e#8887#8940#0" expanded="false" />
+                <element signature="e#8942#10111#0" expanded="false" />
+                <element signature="e#10113#10570#0" expanded="false" />
+                <element signature="e#10572#11907#0" expanded="false" />
+                <element signature="e#11909#12524#0" expanded="false" />
+                <element signature="e#13176#13636#0" expanded="false" />
+                <element signature="e#13638#14404#0" expanded="false" />
+                <element signature="e#14410#14989#0" expanded="false" />
+                <element signature="e#14991#15113#0" expanded="false" />
+                <element signature="e#15115#15349#0" expanded="false" />
+                <element signature="e#15351#15605#0" expanded="false" />
+                <element signature="e#15607#15908#0" expanded="false" />
+                <element signature="e#15910#16149#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="userDefinedTypes.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/userDefinedTypes.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" column="19" lean-forward="false" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+              <folding>
+                <element signature="e#118#136#0" expanded="true" />
+                <element signature="e#264#498#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleBoardNoSalary.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Boards/SimpleBoardNoSalary.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InfiniteMoneyWithMultsRules.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Rules/InfiniteMoneyWithMultsRules.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Makefile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Makefile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>players left</find>
+      <find>!=</find>
+      <find>player</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cmake-build-debug/player.h" />
+        <option value="$PROJECT_DIR$/gameState.c" />
+        <option value="$PROJECT_DIR$/board.c" />
+        <option value="$PROJECT_DIR$/rules.c" />
+        <option value="$PROJECT_DIR$/gameState.h" />
+        <option value="$PROJECT_DIR$/rules.h" />
+        <option value="$PROJECT_DIR$/player.h" />
+        <option value="$PROJECT_DIR$/board.h" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/userDefinedTypes.c" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/userDefinedTypes.h" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/main.c" />
+        <option value="$PROJECT_DIR$/userDefinedTypes.h" />
+        <option value="$PROJECT_DIR$/userDefinedTypes.c" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="349" />
+    <option name="y" value="23" />
+    <option name="width" value="1062" />
+    <option name="height" value="797" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hoarding" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="hoarding" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/jameslemkin/Desktop/homework/compsci/hoarding/userDefinedTypes.h" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.hoarding">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+    </configuration>
+    <configuration name="hoarding" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="../Rules/BankruptOnSimpleBoardRules.txt  ../Boards/SimpleBoardNoSalary.csv ../RandomFiles/GiveBackPropertyRollsOnSimpleBoard.txt" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hoarding" TARGET_NAME="hoarding" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="hoarding" RUN_TARGET_NAME="hoarding">
+      <envs />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.hoarding" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83601637-3d1a-4ad8-b376-4f649bfd1996" name="Default" comment="" />
+      <created>1515540456676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515540456676</updated>
+      <workItem from="1515540458222" duration="15816000" />
+      <workItem from="1516918660071" duration="753000" />
+      <workItem from="1516919468463" duration="68983000" />
+      <workItem from="1517876766581" duration="4000" />
+      <workItem from="1518136134580" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="85564000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="349" y="23" width="1062" height="797" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19397363" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2937931" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39586207" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965517" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/userDefinedTypes.c</url>
+          <line>462</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="71" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="gameState-&gt;players[playerID]" language="ObjectiveC" />
+        <watch expression="gameState-&gt;board.tiles[j]" language="ObjectiveC" />
+        <watch expression="gameState-&gt;players[0]" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/userDefinedTypes.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="19" lean-forward="false" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+          <folding>
+            <element signature="e#118#136#0" expanded="true" />
+            <element signature="e#264#498#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Boards/SimpleBoardNoSalary.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userDefinedTypes.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6210">
+          <caret line="414" column="18" lean-forward="false" selection-start-line="414" selection-start-column="18" selection-end-line="414" selection-end-column="18" />
+          <folding>
+            <element signature="e#1820#1876#0" expanded="false" />
+            <element signature="e#1878#3072#0" expanded="false" />
+            <element signature="e#3078#3275#0" expanded="false" />
+            <element signature="e#3277#5047#0" expanded="false" />
+            <element signature="e#5049#5300#0" expanded="false" />
+            <element signature="e#5302#5847#0" expanded="false" />
+            <element signature="e#5853#6093#0" expanded="false" />
+            <element signature="e#6095#6507#0" expanded="false" />
+            <element signature="e#6509#7097#0" expanded="false" />
+            <element signature="e#7099#7539#0" expanded="false" />
+            <element signature="e#7541#8885#0" expanded="false" />
+            <element signature="e#8887#8940#0" expanded="false" />
+            <element signature="e#8942#10111#0" expanded="false" />
+            <element signature="e#10113#10570#0" expanded="false" />
+            <element signature="e#10572#11907#0" expanded="false" />
+            <element signature="e#11909#12524#0" expanded="false" />
+            <element signature="e#13176#13636#0" expanded="false" />
+            <element signature="e#13638#14404#0" expanded="false" />
+            <element signature="e#14410#14989#0" expanded="false" />
+            <element signature="e#14991#15113#0" expanded="false" />
+            <element signature="e#15115#15349#0" expanded="false" />
+            <element signature="e#15351#15605#0" expanded="false" />
+            <element signature="e#15607#15908#0" expanded="false" />
+            <element signature="e#15910#16149#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rules/InfiniteMoneyWithMultsRules.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userDefinedTypes.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="19" lean-forward="false" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+          <folding>
+            <element signature="e#118#136#0" expanded="true" />
+            <element signature="e#264#498#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Boards/SimpleBoardNoSalary.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rules/InfiniteMoneyWithMultsRules.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userDefinedTypes.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6210">
+          <caret line="414" column="18" lean-forward="true" selection-start-line="414" selection-start-column="18" selection-end-line="414" selection-end-column="18" />
+          <folding>
+            <element signature="e#1820#1876#0" expanded="false" />
+            <element signature="e#1878#3072#0" expanded="false" />
+            <element signature="e#3078#3275#0" expanded="false" />
+            <element signature="e#3277#5047#0" expanded="false" />
+            <element signature="e#5049#5300#0" expanded="false" />
+            <element signature="e#5302#5847#0" expanded="false" />
+            <element signature="e#5853#6093#0" expanded="false" />
+            <element signature="e#6095#6507#0" expanded="false" />
+            <element signature="e#6509#7097#0" expanded="false" />
+            <element signature="e#7099#7539#0" expanded="false" />
+            <element signature="e#7541#8885#0" expanded="false" />
+            <element signature="e#8887#8940#0" expanded="false" />
+            <element signature="e#8942#10111#0" expanded="false" />
+            <element signature="e#10113#10570#0" expanded="false" />
+            <element signature="e#10572#11907#0" expanded="false" />
+            <element signature="e#11909#12524#0" expanded="false" />
+            <element signature="e#13176#13636#0" expanded="false" />
+            <element signature="e#13638#14404#0" expanded="false" />
+            <element signature="e#14410#14989#0" expanded="false" />
+            <element signature="e#14991#15113#0" expanded="false" />
+            <element signature="e#15115#15349#0" expanded="false" />
+            <element signature="e#15351#15605#0" expanded="false" />
+            <element signature="e#15607#15908#0" expanded="false" />
+            <element signature="e#15910#16149#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/userDefinedTypes.c" />
+    <entry file="file://$PROJECT_DIR$/gameState.c" />
+    <entry file="file://$PROJECT_DIR$/gameState.h" />
+    <entry file="file://$PROJECT_DIR$/player.c" />
+    <entry file="file://$PROJECT_DIR$/player.h" />
+    <entry file="file://$PROJECT_DIR$/board.c" />
+    <entry file="file://$PROJECT_DIR$/board.h" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/userDefinedTypes.c" />
+    <entry file="file://$PROJECT_DIR$/rules.c" />
+    <entry file="file://$PROJECT_DIR$/rules.h" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/userDefinedTypes.h" />
+    <entry file="file://$PROJECT_DIR$/move.c" />
+    <entry file="file://$PROJECT_DIR$/move.h" />
+    <entry file="file://$PROJECT_DIR$/gameState.c" />
+    <entry file="file://$PROJECT_DIR$/rules.h" />
+    <entry file="file://$PROJECT_DIR$/board.h" />
+    <entry file="file://$PROJECT_DIR$/board.c" />
+    <entry file="file://$PROJECT_DIR$/player.c" />
+    <entry file="file://$PROJECT_DIR$/gameState.h" />
+    <entry file="file://$PROJECT_DIR$/rules.c" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/userDefinedTypes.h" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/userDefinedTypes.c" />
+    <entry file="file://$PROJECT_DIR$/player.h" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Boards/CampusBoardNoSalary.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Boards/Hoarding_Board1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Boards/OnePropertyNoSalary.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Boards/SimpleMonopolyBoard.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Boards/ContinentBoardNoSalary.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RandomFiles/RandomNums10000.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rules/ContinentRules.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rules/ShortGameTripleMults.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Boards/OnePropertySmallSalary.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Boards/CampusBoard.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rules/InfiniteMoneyWithMultsRules.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Boards/SimpleBoardNoSalary.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userDefinedTypes.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="19" lean-forward="false" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+          <folding>
+            <element signature="e#118#136#0" expanded="true" />
+            <element signature="e#264#498#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userDefinedTypes.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="414" column="18" lean-forward="false" selection-start-line="414" selection-start-column="18" selection-end-line="414" selection-end-column="18" />
+          <folding>
+            <element signature="e#1820#1876#0" expanded="false" />
+            <element signature="e#1878#3072#0" expanded="false" />
+            <element signature="e#3078#3275#0" expanded="false" />
+            <element signature="e#3277#5047#0" expanded="false" />
+            <element signature="e#5049#5300#0" expanded="false" />
+            <element signature="e#5302#5847#0" expanded="false" />
+            <element signature="e#5853#6093#0" expanded="false" />
+            <element signature="e#6095#6507#0" expanded="false" />
+            <element signature="e#6509#7097#0" expanded="false" />
+            <element signature="e#7099#7539#0" expanded="false" />
+            <element signature="e#7541#8885#0" expanded="false" />
+            <element signature="e#8887#8940#0" expanded="false" />
+            <element signature="e#8942#10111#0" expanded="false" />
+            <element signature="e#10113#10570#0" expanded="false" />
+            <element signature="e#10572#11907#0" expanded="false" />
+            <element signature="e#11909#12524#0" expanded="false" />
+            <element signature="e#13176#13636#0" expanded="false" />
+            <element signature="e#13638#14404#0" expanded="false" />
+            <element signature="e#14410#14989#0" expanded="false" />
+            <element signature="e#14991#15113#0" expanded="false" />
+            <element signature="e#15115#15349#0" expanded="false" />
+            <element signature="e#15351#15605#0" expanded="false" />
+            <element signature="e#15607#15908#0" expanded="false" />
+            <element signature="e#15910#16149#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

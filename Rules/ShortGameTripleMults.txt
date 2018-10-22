@@ -1,0 +1,9 @@
+Starting Cash: 100
+Turn Limit (-1 for no turn limit): -1
+Number of Players Left To End Game: 1
+Property Set Multiplier: 3
+Number of Houses Before Hotels: 4
+Must Build Houses Evenly: Yes
+Put Money In Free Parking: No
+Auction Properties: Yes
+Salary Multiplier For Landing On Go: 3

@@ -1,0 +1,27 @@
+Number of Spaces,23,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Type,Set Id,Intraset Id,Name,Property Cost,House Cost,Hotel Cost,Rent,Rent with House,Rent With Hotel
+Go,200,Go,,,,,,,
+Property,0,0,Mediterranean Avenue,60,50,50,2,10,250
+Property,0,1,Baltic Avenue,60,50,50,4,20,450
+Property,1,0,Oriental Avenue,100,50,50,6,30,550
+Property,1,1,Vermont Avenue,100,50,50,6,30,550
+Property,1,2,Connecticut Avenue,120,50,50,8,40,600
+Property,2,0,St. Charles Place,140,100,100,10,50,750
+Property,2,1,States Avenue,140,100,100,10,50,750
+Property,2,2,Virginia Avenue,160,100,100,12,60,900
+Property,3,0,St. James Place,180,100,100,14,70,950
+Property,3,1,Tennessee Avenue,180,100,100,14,70,950
+Property,3,2,New York Avenue,200,100,100,16,80,1000
+Property,4,0,Kentucky Avenue,220,150,150,18,90,1050
+Property,4,1,Indiana Avenue,220,150,150,18,90,1050
+Property,4,2,Illinois Avenue,240,150,150,20,100,1100
+Property,5,0,Atlantic Avenue,260,150,150,22,110,1150
+Property,5,1,Ventnor Avenue.,260,150,150,22,110,1150
+Property,5,2,Marvin Gardens,280,150,150,24,120,1200
+Property,6,0,Pacific Avenue,300,200,200,26,130,1275
+Property,6,1,North Carolina Avenue,300,200,200,26,130,1275
+Property,6,2,Pennsylvania Avenue,320,200,200,28,150,1400
+Property,7,0,Park Place,350,200,200,35,175,1500
+Property,7,1,Boardwalk,400,200,200,50,200,2000

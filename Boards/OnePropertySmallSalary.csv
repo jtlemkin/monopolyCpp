@@ -1,0 +1,6 @@
+Number of Spaces,2,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Type,Set Id,Intraset Id,Name,Property Cost,House Cost,Hotel Cost,Rent,Rent with House,Rent With Hotel
+Go,25,Earth,,,,,,,
+Property,0,0,The World,100,50,50,200,50,2000
